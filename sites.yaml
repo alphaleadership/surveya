@@ -1,1 +1,5 @@
-"" 
+sites:
+- name: My website
+  url: https://example.com
+- name: My blog
+  url: https://blog.example.com
