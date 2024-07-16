@@ -1,0 +1,14 @@
+{
+  "name": "sirveu",
+  "version": "1.0.0",
+  "description": "| Website                 | Status                |\r | ----------------------- | --------------------- |\r | [My website](https://example.com) | :green_square: |\r | [My blog](https://blog.example.com) | :red_square: |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-to-pretty-yaml": "^1.2.2"
+  }
+}
