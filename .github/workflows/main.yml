@@ -14,9 +14,9 @@ jobs:
       - name: Run SiteWatchDog
         uses: QJoly/SiteWatchdog@v0.1.1
         env:
-          SITES_YAML_PATH: .github/sites.yaml
-          README_TEMPLATE_PATH: .github/README.md.tmpl
-        with:
+          SITES_YAML_PATH: sites.yaml
+          README_TEMPLATE_PATH: README.md.tmpl
+        
           
 
       - name: Push changes if needed
