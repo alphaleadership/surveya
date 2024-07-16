@@ -1,19 +1,19 @@
 sites:
+  - url: "https://egaliteetreconciliation.fr/"
+    name: "egaliteetreconciliation.fr"
   - url: "https://Actuinfo360.com"
-    name: 0
+    name: "actuinfo360.com"
   - url: "https://jeune-nation.com/"
-    name: 1
+    name: "jeune-nation.com"
   - url: "https://ejmagnier.com/"
-    name: 2
+    name: "ejmagnier.com"
   - url: "https://reseauinternational.net/"
-    name: 3
+    name: "reseauinternational.net"
   - url: "https://gilbertdoctorow.com/"
-    name: 4
+    name: "gilbertdoctorow.com"
   - url: "https://lesmoutonsenrages.fr/"
-    name: 5
+    name: "lesmoutonsenrages.fr"
   - url: "https://lesakerfrancophone.fr/"
-    name: 6
+    name: "lesakerfrancophone.fr"
   - url: "https://information645.wordpress.com/"
-    name: 7
-  - url: ""
-    name: 8
+    name: "information645.wordpress.com"
