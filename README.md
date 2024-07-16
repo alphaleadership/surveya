@@ -7,3 +7,5 @@
 | [4](https://gilbertdoctorow.com/) | :green_square: |
 | [5](https://lesmoutonsenrages.fr/) | :green_square: |
 | [6](https://lesakerfrancophone.fr/) | :green_square: |
+| [7](https://information645.wordpress.com/) | :green_square: |
+| [8]() | :red_square: |
