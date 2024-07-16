@@ -17,7 +17,7 @@ jobs:
           SITES_YAML_PATH: .github/sites.yaml
           README_TEMPLATE_PATH: .github/README.md.tmpl
         with:
-          show_output: false
+          
 
       - name: Push changes if needed
         run: |
