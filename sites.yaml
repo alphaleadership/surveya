@@ -13,3 +13,7 @@ sites:
     name: 5
   - url: "https://lesakerfrancophone.fr/"
     name: 6
+  - url: "https://information645.wordpress.com/"
+    name: 7
+  - url: ""
+    name: 8
