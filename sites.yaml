@@ -1,15 +1,15 @@
 sites:
-  - url: "https://Actuinfo360.com\r"
+  - url: "https://Actuinfo360.com"
     name: 0
-  - url: "https://jeune-nation.com/\r"
+  - url: "https://jeune-nation.com/"
     name: 1
-  - url: "https://ejmagnier.com/\r"
+  - url: "https://ejmagnier.com/"
     name: 2
-  - url: "https://reseauinternational.net/\r"
+  - url: "https://reseauinternational.net/"
     name: 3
-  - url: "https://gilbertdoctorow.com/\r"
+  - url: "https://gilbertdoctorow.com/"
     name: 4
-  - url: "https://lesmoutonsenrages.fr/\r"
+  - url: "https://lesmoutonsenrages.fr/"
     name: 5
   - url: "https://lesakerfrancophone.fr/"
     name: 6
