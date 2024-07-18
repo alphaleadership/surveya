@@ -17,3 +17,5 @@ sites:
     name: "lesakerfrancophone.fr"
   - url: "https://information645.wordpress.com/"
     name: "information645.wordpress.com"
+  - url: "https://fildecof.org/"
+    name: "fildecof.org"
