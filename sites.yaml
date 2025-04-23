@@ -19,3 +19,5 @@ sites:
     name: "information645.wordpress.com"
   - url: "https://fildecof.org/"
     name: "fildecof.org"
+  - url: "https://feed-blush.vercel.app/"
+    name: "feed"
