@@ -9,5 +9,5 @@
 | [lesmoutonsenrages.fr](https://lesmoutonsenrages.fr/) | :green_square: |
 | [lesakerfrancophone.fr](https://lesakerfrancophone.fr/) | :green_square: |
 | [information645.wordpress.com](https://information645.wordpress.com/) | :green_square: |
-| [fildecof.org](https://fildecof.org/) | :red_square: |
+| [fildecof.org](https://fildecof.org/) | :green_square: |
 | [feed](https://feed-blush.vercel.app/) | :red_square: |
