@@ -2,7 +2,7 @@
 | ----------------------- | --------------------- |
 | [egaliteetreconciliation.fr](https://egaliteetreconciliation.fr/) | :red_square: |
 | [actuinfo360.com](https://Actuinfo360.com) | :red_square: |
-| [jeune-nation.com](https://jeune-nation.com/) | :green_square: |
+| [jeune-nation.com](https://jeune-nation.com/) | :red_square: |
 | [ejmagnier.com](https://ejmagnier.com/) | :green_square: |
 | [reseauinternational.net](https://reseauinternational.net/) | :red_square: |
 | [gilbertdoctorow.com](https://gilbertdoctorow.com/) | :green_square: |
